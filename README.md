@@ -1,0 +1,2 @@
+# tentamenSQL
+tentamen sql
